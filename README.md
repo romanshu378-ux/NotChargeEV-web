@@ -1,2 +1,0 @@
-# NotChargeEV-web
-NotChargeEV website
