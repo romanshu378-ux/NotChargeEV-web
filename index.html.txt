@@ -14,7 +14,6 @@
             --accent-color: #06b6d4; /* Vibrant Cyan */
             --background-color: #030712; /* Deep Dark Blue/Black */
         }
-<!-- Re-deploy fix 1 -->
         body {
             font-family: 'Inter', sans-serif;
             background-color: var(--background-color);
@@ -473,5 +472,4 @@
         });
     </script>
 </body>
-
 </html>
